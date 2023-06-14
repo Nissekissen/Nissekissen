@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nissekissen
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Javascript (Node.js), Python
+- 🌱 I’m currently learning Javascript (Node.js), Python, C++
 - 💞️ I’m looking to collaborate on Python or Javascript projects
 - 📫 How to reach me on discord: `@nissekissen`
 
